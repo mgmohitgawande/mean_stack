@@ -1,0 +1,12 @@
+{
+  "name": "MultiVision",
+  "description": "\"MEAN stack Training\"",
+  "main": "index.js",
+  "authors": [
+    "Mohit Gawande"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true
+}
